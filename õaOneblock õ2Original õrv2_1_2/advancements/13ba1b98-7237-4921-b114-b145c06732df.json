@@ -1,0 +1,213 @@
+{
+  "obs:tips/biomes": {
+    "criteria": {
+      "start": "2024-10-06 20:25:54 -0500"
+    },
+    "done": true
+  },
+  "obs:ob/root": {
+    "criteria": {
+      "start": "2024-10-06 20:25:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2024-10-06 20:28:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2024-10-06 20:28:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-10-06 20:28:02 -0500"
+    },
+    "done": true
+  },
+  "obs:tips/shifting": {
+    "criteria": {
+      "start": "2024-10-06 20:25:54 -0500"
+    },
+    "done": true
+  },
+  "obs:tips/trader": {
+    "criteria": {
+      "start": "2024-10-06 20:25:54 -0500"
+    },
+    "done": true
+  },
+  "obs:tips/root": {
+    "criteria": {
+      "start": "2024-10-06 20:25:54 -0500"
+    },
+    "done": true
+  },
+  "obs:tips/area": {
+    "criteria": {
+      "start": "2024-10-06 20:25:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-10-06 20:28:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-10-06 20:27:53 -0500"
+    },
+    "done": true
+  },
+  "obs:tips/end": {
+    "criteria": {
+      "start": "2024-10-06 20:25:54 -0500"
+    },
+    "done": true
+  },
+  "obs:ob/dirt_1": {
+    "criteria": {
+      "phase1": "2024-10-06 20:27:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-10-06 20:28:02 -0500"
+    },
+    "done": true
+  },
+  "obs:tips/trader_2": {
+    "criteria": {
+      "start": "2024-10-06 20:25:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2024-10-06 20:28:02 -0500"
+    },
+    "done": true
+  },
+  "obs:tips/recipes": {
+    "criteria": {
+      "start": "2024-10-06 20:25:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2024-10-06 20:28:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-10-06 20:28:02 -0500"
+    },
+    "done": true
+  },
+  "obs:tips/mob_drops": {
+    "criteria": {
+      "start": "2024-10-06 20:25:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-10-06 20:28:02 -0500"
+    },
+    "done": true
+  },
+  "obs:tips/spawns": {
+    "criteria": {
+      "start": "2024-10-06 20:25:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2024-10-06 20:28:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-10-06 20:27:53 -0500"
+    },
+    "done": true
+  },
+  "obs:phases/root": {
+    "criteria": {
+      "start": "2024-10-06 20:26:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-10-06 20:27:53 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2024-10-06 20:25:55 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-10-06 20:28:02 -0500"
+    },
+    "done": true
+  },
+  "obs:phases/phase_1": {
+    "criteria": {
+      "phase1": "2024-10-06 20:27:41 -0500"
+    },
+    "done": true
+  },
+  "obs:tips/gate": {
+    "criteria": {
+      "start": "2024-10-06 20:25:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-10-06 20:27:53 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-10-06 20:27:53 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-10-06 20:27:53 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-10-06 20:28:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2024-10-06 20:28:02 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
